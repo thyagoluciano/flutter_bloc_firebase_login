@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Add and Configure Cloud Firestore
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
